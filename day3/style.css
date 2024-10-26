@@ -55,3 +55,18 @@ background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, F
     ;
     font-weight: bold;
 }
+
+console.log(obj,obj2);
+let arr=["a",obj,x,obj2]
+console.log(arr);
+let arr2[1,2,3,4,5,6]
+console.log(arr2);
+let arr3=[arr,arr2];
+let arr4=[...arr,...arr];
+console.log(arr3);
+console.log(arr4);
+
+
+
+
+
